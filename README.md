@@ -1,4 +1,4 @@
-# tidal-now-playing README
+# Tidal Now Playing VS Code Extension
 
 This extension lets you see the currently playing song on Tidal.
 <br />
