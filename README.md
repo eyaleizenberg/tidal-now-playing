@@ -1,7 +1,8 @@
 # tidal-now-playing README
 
 This extension lets you see the currently playing song on Tidal.
-<img src="./images/screenshot.png" />
+<br />
+<img src="./images/screenshot.png" style="width:350px;" />
 
 ## License
 
