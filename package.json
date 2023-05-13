@@ -2,7 +2,7 @@
   "name": "tidal-now-playing",
   "displayName": "Tidal Now Playing",
   "description": "Show the currently playing song on Tidal",
-  "publisher": "eyaleizenberg",
+  "publisher": "eyal",
   "bugs": {
     "url": "https://github.com/eyaleizenberg/tidal-now-playing/issues"
   },
