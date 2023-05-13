@@ -1,12 +1,13 @@
 # tidal-now-playing README
 
 This extension lets you see the currently playing song on Tidal.
-![Now Playing](./images/screenshot.png "Now Playing")
+<img src="./images/screenshot.png" />
 
 ## License
 
 MIT and free for all to use. If you like the extension, feel free to donate here:
-[![Donate](./images/paypal.png "Donate")](https://www.paypal.com/donate/?hosted_button_id=Q7UALZG6BUJ9Q)
+<br />
+<a href="https://www.paypal.com/donate/?hosted_button_id=Q7UALZG6BUJ9Q"><img src="./images/paypal.png"></a>
 
 ## Limitations
 
