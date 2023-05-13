@@ -2,7 +2,21 @@
   "name": "tidal-now-playing",
   "displayName": "Tidal Now Playing",
   "description": "Show the currently playing song on Tidal",
-  "version": "0.0.1",
+  "publisher": "Eyal Eizenberg",
+  "bugs": {
+    "url": "https://github.com/eyaleizenberg/tidal-now-playing/issues"
+  },
+  "extensionKind": [
+    "ui"
+  ],
+  "keywords": ["playing", "music", "control", "tidal"],
+  "homepage": "https://github.com/eyaleizenberg/tidal-now-playing",
+  "version": "1.0.0",
+  "license": "MIT",
+  "icon": "images/logo.png",
+  "repository": {
+    "url": "https://github.com/eyaleizenberg/tidal-now-playing"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -14,8 +28,16 @@
   "contributes": {
     "commands": [
       {
-        "command": "tidal-now-playing.helloWorld",
-        "title": "Hello!"
+        "command": "tidal-now-playing.pause-play",
+        "title": "Tidal: Play/Pause"
+      },
+      {
+        "command": "tidal-now-playing.next-track",
+        "title": "Tidal: Next Track"
+      },
+      {
+        "command": "tidal-now-playing.previous-track",
+        "title": "Tidal: Previous Track"
       }
     ]
   },
