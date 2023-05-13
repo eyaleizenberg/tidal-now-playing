@@ -5,9 +5,7 @@ This extension lets you see the currently playing song on Tidal.
 
 ## License
 
-MIT and free for all to use. If you like the extension, feel free to donate here:
-<br />
-<a href="https://www.paypal.com/donate/?hosted_button_id=Q7UALZG6BUJ9Q"><img src="./images/paypal.png"></a>
+MIT and free for all to use. If you like the extension, feel free to <a href="https://www.paypal.com/donate/?hosted_button_id=Q7UALZG6BUJ9Q">donate here</a>
 
 ## Limitations
 
